@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld", "HelloWorld\He
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GettingInput", "GettingInput\GettingInput.csproj", "{C9562D49-3D18-4B76-9CEE-405E36BBA82F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Comments", "Comments\Comments.csproj", "{13F991A6-5CC0-4C97-9746-D15BDA53D70C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{C9562D49-3D18-4B76-9CEE-405E36BBA82F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C9562D49-3D18-4B76-9CEE-405E36BBA82F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C9562D49-3D18-4B76-9CEE-405E36BBA82F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13F991A6-5CC0-4C97-9746-D15BDA53D70C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13F991A6-5CC0-4C97-9746-D15BDA53D70C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13F991A6-5CC0-4C97-9746-D15BDA53D70C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13F991A6-5CC0-4C97-9746-D15BDA53D70C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
