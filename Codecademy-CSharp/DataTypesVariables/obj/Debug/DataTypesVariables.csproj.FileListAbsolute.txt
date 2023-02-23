@@ -1,0 +1,8 @@
+C:\Users\Admin\source\repos\Codecademy-CSharp\Codecademy-CSharp\DataTypesVariables\bin\Debug\DataTypesVariables.exe.config
+C:\Users\Admin\source\repos\Codecademy-CSharp\Codecademy-CSharp\DataTypesVariables\bin\Debug\DataTypesVariables.exe
+C:\Users\Admin\source\repos\Codecademy-CSharp\Codecademy-CSharp\DataTypesVariables\bin\Debug\DataTypesVariables.pdb
+C:\Users\Admin\source\repos\Codecademy-CSharp\Codecademy-CSharp\DataTypesVariables\obj\Debug\DataTypesVariables.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Codecademy-CSharp\Codecademy-CSharp\DataTypesVariables\obj\Debug\DataTypesVariables.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\Codecademy-CSharp\Codecademy-CSharp\DataTypesVariables\obj\Debug\DataTypesVariables.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Codecademy-CSharp\Codecademy-CSharp\DataTypesVariables\obj\Debug\DataTypesVariables.exe
+C:\Users\Admin\source\repos\Codecademy-CSharp\Codecademy-CSharp\DataTypesVariables\obj\Debug\DataTypesVariables.pdb
