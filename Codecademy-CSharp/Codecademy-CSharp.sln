@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Comments", "Comments\Commen
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataTypesVariables", "DataTypesVariables\DataTypesVariables.csproj", "{410BDF81-1977-4E4D-9F3F-AE413F08A97D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleCreatures", "ConsoleCreatures\ConsoleCreatures.csproj", "{8DA1AC51-453E-40F7-8EE0-A1107F74E3E1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{410BDF81-1977-4E4D-9F3F-AE413F08A97D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{410BDF81-1977-4E4D-9F3F-AE413F08A97D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{410BDF81-1977-4E4D-9F3F-AE413F08A97D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DA1AC51-453E-40F7-8EE0-A1107F74E3E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DA1AC51-453E-40F7-8EE0-A1107F74E3E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DA1AC51-453E-40F7-8EE0-A1107F74E3E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DA1AC51-453E-40F7-8EE0-A1107F74E3E1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
