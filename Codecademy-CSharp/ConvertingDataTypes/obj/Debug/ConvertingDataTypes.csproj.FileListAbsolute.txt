@@ -1,0 +1,8 @@
+C:\Users\Admin\source\repos\Codecademy-CSharp\Codecademy-CSharp\ConvertingDataTypes\bin\Debug\ConvertingDataTytpes.exe.config
+C:\Users\Admin\source\repos\Codecademy-CSharp\Codecademy-CSharp\ConvertingDataTypes\bin\Debug\ConvertingDataTytpes.exe
+C:\Users\Admin\source\repos\Codecademy-CSharp\Codecademy-CSharp\ConvertingDataTypes\bin\Debug\ConvertingDataTytpes.pdb
+C:\Users\Admin\source\repos\Codecademy-CSharp\Codecademy-CSharp\ConvertingDataTypes\obj\Debug\ConvertingDataTypes.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Codecademy-CSharp\Codecademy-CSharp\ConvertingDataTypes\obj\Debug\ConvertingDataTypes.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\Codecademy-CSharp\Codecademy-CSharp\ConvertingDataTypes\obj\Debug\ConvertingDataTypes.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Codecademy-CSharp\Codecademy-CSharp\ConvertingDataTypes\obj\Debug\ConvertingDataTytpes.exe
+C:\Users\Admin\source\repos\Codecademy-CSharp\Codecademy-CSharp\ConvertingDataTypes\obj\Debug\ConvertingDataTytpes.pdb

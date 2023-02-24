@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataTypesVariables", "DataT
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleCreatures", "ConsoleCreatures\ConsoleCreatures.csproj", "{8DA1AC51-453E-40F7-8EE0-A1107F74E3E1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConvertingDataTypes", "ConvertingDataTypes\ConvertingDataTypes.csproj", "{5AE2EF69-9FEA-4868-8C21-750E221A4312}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{8DA1AC51-453E-40F7-8EE0-A1107F74E3E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8DA1AC51-453E-40F7-8EE0-A1107F74E3E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8DA1AC51-453E-40F7-8EE0-A1107F74E3E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5AE2EF69-9FEA-4868-8C21-750E221A4312}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AE2EF69-9FEA-4868-8C21-750E221A4312}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AE2EF69-9FEA-4868-8C21-750E221A4312}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AE2EF69-9FEA-4868-8C21-750E221A4312}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
